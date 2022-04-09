@@ -1,0 +1,23 @@
+{
+  "name": "notetab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricNg314/NoteTab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricNg314/NoteTab/issues"
+  },
+  "homepage": "https://github.com/EricNg314/NoteTab#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

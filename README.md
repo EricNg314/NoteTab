@@ -11,6 +11,8 @@
 ## Description 
 Simple note app to store information with a backend.
 
+[Deployed link.](https://notetab-app.herokuapp.com/)
+
 <div style="display:flex; flex-direction: row;" >
  <img src="./assets/images/site_IMG.png" width="75%">
 </div>
